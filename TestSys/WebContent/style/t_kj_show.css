@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+.kj_all{
+	width:100%;
+	hight:100%;
+	float: left;
+	padding-left:  5%;
+	padding-right: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	margin:5px;
+	text-align: center;
+}
+.kj_title{
+	text-align: center;
+	font-size: 2em;
+	font-family: 微软雅黑, 宋体 ;
+}
+.kj_info{
+	padding:5px;
+}
+.line_title{
+	padding:5px;
+	font-size: 1em;
+	color: orange
+	
+}
+.line_info{
+	text-align: center;
+}
